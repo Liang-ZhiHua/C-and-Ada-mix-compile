@@ -9,5 +9,3 @@ b~c_api.adb:c_api.ali
 c_api.ali:c_api.adb
 	gnatmake c_api
 
-clean:
-	rm *.o
