@@ -1,4 +1,4 @@
-# Mix-C-C-Ada
+# C,C++,Ada mixed compile
 
 ## __1.Preview__<br />
 this is a simple example to run C,C++ and ada code on linux system, where C,C++ file call ada sub-function.
